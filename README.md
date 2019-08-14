@@ -33,3 +33,9 @@
 3. [如何写一份更好的简历](https://juejin.im/post/5b2fb0e1f265da59584d98b9)
 
 这个很有参考价值
+
+4. [awesome-resume](https://github.com/resumejob/awesome-resume)
+
+5. [面试官教你写简历之「实习/应届生简历指南」](https://juejin.im/post/5d307e47f265da1bad573f0f)
+
+6. [2019 面试系列 - 简历](https://juejin.im/post/5d05ca79f265da1bc75237ea)
